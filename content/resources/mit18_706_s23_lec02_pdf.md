@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: "18.706 Noncommutative Algebra (S23), Lecture 02: Semisimple Modules, Socles,\
-  \ Artinian Rings, Wedderburn\u2019s Theorem"
+title: "Lecture 02: Semisimple Modules, Socles, Artinian Rings, Wedderburn\u2019s\
+  \ Theorem"
 uid: 879bc2c7-834f-44d5-a770-61899bd5c433
 video_files:
   archive_url: ''

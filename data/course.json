@@ -18,12 +18,12 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "587970aa-a519-4a8c-9c9b-56634a4f986b",
     "website": "noncommutative-algebra"
   },
   "course_title": "Noncommutative Algebra",
   "hide_download": false,
-  "course_description": "Noncommutative algebra is the part of ring theory devoted to study of properties of the noncommutative rings, including the properties that apply also to commutative rings. The beginning of the course will cover fundamental concepts forming the basic vocabulary of the algebraic language in today\u2019s math:",
+  "course_description": "Noncommutative algebra studies algebraic phenomena involving multiplication for which commutativity law fails, such as product of matrices in linear algebra; such phenomena arise in various disciplines ranging from quantum physics to number theory.",
   "department_numbers": [
     "18"
   ],

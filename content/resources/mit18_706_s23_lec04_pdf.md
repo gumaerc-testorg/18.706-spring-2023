@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 04: Socle and Cosocle Filtrations,
-  Jacobson Radical, Krull-Schmidt'
+title: 'Lecture 04: Socle and Cosocle Filtrations, Jacobson Radical, Krull-Schmidt'
 uid: 64529c37-0ac9-4e85-a6de-be65420fb7b3
 video_files:
   archive_url: ''

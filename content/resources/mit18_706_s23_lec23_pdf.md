@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 23: Another Proof of Amitsur-Levitski,
-  PI Algebras'
+title: 'Lecture 23: Another Proof of Amitsur-Levitski, PI Algebras'
 uid: ea113ccf-fb8a-4138-86f3-63a31d0b1839
 video_files:
   archive_url: ''

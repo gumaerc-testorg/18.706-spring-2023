@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 10: Exts and Tors, Resolutions'
+title: 'Lecture 10: Exts and Tors, Resolutions'
 uid: b60b86ed-2dcb-4718-8bd9-c7ccf4aa720b
 video_files:
   archive_url: ''

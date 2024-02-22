@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 19: Brauer Group of a Ring Continued,
-  Localization'
+title: 'Lecture 19: Brauer Group of a Ring Continued, Localization'
 uid: daa5cd73-8407-4ade-8211-514ae27c180a
 video_files:
   archive_url: ''

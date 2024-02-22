@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 22: Goldie Theorem, PI Rings'
+title: 'Lecture 22: Goldie Theorem, PI Rings'
 uid: b5108af8-e701-44f3-93a0-02958bf7815b
 video_files:
   archive_url: ''
