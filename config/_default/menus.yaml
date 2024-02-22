@@ -1,0 +1,27 @@
+leftnav:
+- identifier: c9a55849-41a3-481e-b884-24e01be0bedc
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 6a2c3f5d-4e21-4510-9b50-90cf7dbf9001
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 20
+- identifier: ab431674-995b-4aa0-8c53-87af73997562
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 890fcc55-0de6-4ef7-b1db-67a715580ddb
+  name: Study Materials
+  pageRef: /lists/study-materials
+  weight: 40
+- identifier: a8c93b96-4e6d-4129-9ea5-ac724e001f9e
+  name: Problem Sets
+  pageRef: /lists/problem-sets
+  parent: ab431674-995b-4aa0-8c53-87af73997562
+  weight: 10
+- identifier: 35442035-9f5f-4870-a21f-523cf1d2cd4b
+  name: Optional Paper
+  pageRef: /pages/optional-paper
+  parent: ab431674-995b-4aa0-8c53-87af73997562
+  weight: 20
