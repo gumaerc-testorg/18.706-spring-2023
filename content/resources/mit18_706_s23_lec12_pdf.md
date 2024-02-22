@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 12: Koszul Rings Continued, Bar
-  Complex'
+title: 'Lecture 12: Koszul Rings Continued, Bar Complex'
 uid: 330e0ae2-d4e2-45c9-9468-3222435a2b31
 video_files:
   archive_url: ''

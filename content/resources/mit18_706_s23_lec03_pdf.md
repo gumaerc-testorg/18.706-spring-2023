@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 03: Isotypic Decomposition, Density
-  Theorem, Noetherian and Artinian Properties, Jacobson Radical'
+title: 'Lecture 03: Isotypic Decomposition, Density Theorem, Noetherian and Artinian
+  Properties, Jacobson Radical'
 uid: 66254377-5b4b-45f4-8c90-bb596ac5efaa
 video_files:
   archive_url: ''

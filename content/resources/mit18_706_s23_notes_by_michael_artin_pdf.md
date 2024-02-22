@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.706 Noncommutative Algebra (S23), Noncommutative Rings lecture notes by
-  Prof. Michael Artin
+title: Noncommutative Rings lecture notes by Prof. Michael Artin
 uid: 5b05692d-6bd7-4e97-a768-5ea5192a3b48
 video_files:
   archive_url: ''

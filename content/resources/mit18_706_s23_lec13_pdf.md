@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 13: Hochschild (co)Homology Continued,
-  Central Simple Algebras'
+title: 'Lecture 13: Hochschild (co)Homology Continued, Central Simple Algebras'
 uid: 0b6b7124-d23c-454d-9d7a-529f15baa411
 video_files:
   archive_url: ''

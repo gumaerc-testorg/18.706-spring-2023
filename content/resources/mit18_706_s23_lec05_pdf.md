@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 05: Jacobson Radical, Primitive
-  and Semi-Primitive Rings'
+title: 'Lecture 05: Jacobson Radical, Primitive and Semi-Primitive Rings'
 uid: 78485f76-cadd-45fd-bc99-c867d4f2a564
 video_files:
   archive_url: ''

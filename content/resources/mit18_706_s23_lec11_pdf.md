@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 11: Koszul Complexes'
+title: 'Lecture 11: Koszul Complexes'
 uid: bdf12c12-3c72-49fd-aa5a-c219fa899177
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.706 Noncommutative Algebra (S23), Problem Set 2
+title: Problem Set 2
 uid: fdc02702-4ca8-4542-93fe-221ea765a503
 video_files:
   archive_url: ''

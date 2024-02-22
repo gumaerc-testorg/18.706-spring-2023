@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 09: More on Serre Quotients,
-  Abelian Categories'
+title: 'Lecture 09: More on Serre Quotients, Abelian Categories'
 uid: db8758cd-3dc7-4b09-8739-b0e61a66ab1d
 video_files:
   archive_url: ''

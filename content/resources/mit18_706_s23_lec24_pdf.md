@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 24: Gelfand-Kirillov Dimension'
+title: 'Lecture 24: Gelfand-Kirillov Dimension'
 uid: 1f8dbd6e-36f2-4193-8b24-86de110a31d8
 video_files:
   archive_url: ''

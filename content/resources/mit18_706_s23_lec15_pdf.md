@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 15: Separable Splitting Fields
-  and Cross-Product Algebras'
+title: 'Lecture 15: Separable Splitting Fields and Cross-Product Algebras'
 uid: 3b2f4f42-21e4-4b58-873e-ce42d8658a6e
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 07: Categories and Morita Equivalence'
+title: 'Lecture 07: Categories and Morita Equivalence'
 uid: 7aaed20a-1eff-4f55-9ff5-291089d2bda1
 video_files:
   archive_url: ''

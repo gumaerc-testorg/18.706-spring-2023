@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 18: Azumaya Algebras'
+title: 'Lecture 18: Azumaya Algebras'
 uid: d22e5ca8-326a-4f44-8c09-6b9c1a5781b1
 video_files:
   archive_url: ''

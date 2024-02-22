@@ -1,6 +1,6 @@
 ---
 content_type: resource-list
-description: ''
+description: Thanks to Serina Hu and Vasily Krylov for note taking.
 draft: false
 resources:
   content:
@@ -29,6 +29,7 @@ resources:
   - b5108af8-e701-44f3-93a0-02958bf7815b
   - ea113ccf-fb8a-4138-86f3-63a31d0b1839
   - 1f8dbd6e-36f2-4193-8b24-86de110a31d8
+  - 66a1238a-d92f-4fa3-b0e5-4e54568b1ba3
   website: noncommutative-algebra
 title: Lecture Notes
 uid: 6a2c3f5d-4e21-4510-9b50-90cf7dbf9001

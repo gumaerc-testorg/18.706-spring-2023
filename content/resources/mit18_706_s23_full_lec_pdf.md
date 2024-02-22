@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.706 Noncommutative Algebra (S23), Full Lecture Notes
+title: 18.706 (S23), Full Lecture Notes
 uid: bfb0e0e6-e42f-4cfc-a6ff-b01147df1932
 video_files:
   archive_url: ''

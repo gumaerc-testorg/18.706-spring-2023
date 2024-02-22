@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 06: Artinian Rings are Noetherian,
-  Projective Covers'
+title: 'Lecture 06: Artinian Rings are Noetherian, Projective Covers'
 uid: 9150c9a9-6162-4f31-bc92-04f103e7661f
 video_files:
   archive_url: ''

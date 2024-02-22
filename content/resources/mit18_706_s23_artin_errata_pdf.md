@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-706-noncommutative-algebra-spring-2023/mit18_706_s23_lec14.pdf
-file_size: 1803512
+file: /courses/18-706-noncommutative-algebra-spring-2023/mit18_706_s23_artin_errata.pdf
+file_size: 217559
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -13,8 +13,8 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 14: Brauer Group and Skolem-Noether Theorems'
-uid: a95dfcdd-271d-428e-aa2c-3e74c18dc9cf
+title: Noncommutative Rings lecture notes by Artin Errata
+uid: 2dc5894e-d42e-4732-a1c7-a006d7215d12
 video_files:
   archive_url: ''
   video_captions_file: ''

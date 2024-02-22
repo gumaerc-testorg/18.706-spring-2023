@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 16: Cohomological Description
-  of the Brauer Group'
+title: 'Lecture 16: Cohomological Description of the Brauer Group'
 uid: 06666b70-dd86-47fc-81e2-0203709ff51e
 video_files:
   archive_url: ''

@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 08: Morita Theory Continued:
-  (co)Centers, Functors and Bimodules'
+title: 'Lecture 08: Morita Theory Continued: (co)Centers, Functors and Bimodules'
 uid: aee41186-3239-4f6c-9102-6ea7feb2f5b7
 video_files:
   archive_url: ''

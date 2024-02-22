@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 17: Brauer Groups of Central
-  Simple Algebras, Reduced Norm and Trace'
+title: 'Lecture 17: Brauer Groups of Central Simple Algebras, Reduced Norm and Trace'
 uid: aa13984b-3a45-4e1b-98a9-e9558f56a305
 video_files:
   archive_url: ''

@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '18.706 Noncommutative Algebra (S23), Lecture 20: Ore Localization, Goldie
-  Theorem'
+title: 'Lecture 20: Ore Localization, Goldie Theorem'
 uid: db1d1147-7f03-40dd-bd4e-a449484fddd5
 video_files:
   archive_url: ''

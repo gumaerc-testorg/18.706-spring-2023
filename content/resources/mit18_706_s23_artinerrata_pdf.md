@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-706-noncommutative-algebra-spring-2023/mit18_706_s23_lec14.pdf
-file_size: 1803512
+file: /courses/18-706-noncommutative-algebra-spring-2023/mit18_706_s23_artinerrata.pdf
+file_size: 217126
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 14: Brauer Group and Skolem-Noether Theorems'
-uid: a95dfcdd-271d-428e-aa2c-3e74c18dc9cf
+title: mit18_706_S23_artinerrata.pdf
+uid: 3d6d67ea-ec3e-4471-bd9b-641fc91a926c
 video_files:
   archive_url: ''
   video_captions_file: ''

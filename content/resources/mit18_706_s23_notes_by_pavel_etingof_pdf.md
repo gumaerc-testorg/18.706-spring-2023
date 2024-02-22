@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 18.706 Noncommutative Algebra (S23), Rings, Ideals, and Modules lecture notes
-  by Prof. Pavel Etingof
+title: Rings, Ideals, and Modules lecture notes by Prof. Pavel Etingof
 uid: 519c043c-b00a-44b1-b794-560ca8eb2299
 video_files:
   archive_url: ''
