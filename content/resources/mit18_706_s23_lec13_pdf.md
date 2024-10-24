@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-706-noncommutative-algebra-spring-2023/mit18_706_s23_lec13.pdf
+file: /ol-ocw-studio-app/courses/18-706-noncommutative-algebra-spring-2023/mit18_706_s23_lec13.pdf
 file_size: 1794005
 file_type: application/pdf
 image_metadata:
