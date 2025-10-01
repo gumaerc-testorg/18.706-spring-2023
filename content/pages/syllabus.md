@@ -45,11 +45,11 @@ The beginning of the course will cover fundamental concepts forming the basic vo
 
 There is no required textbook. A full set of {{% resource_link "6a2c3f5d-4e21-4510-9b50-90cf7dbf9001" "lecture notes" %}} is provided. Possible other references include the following:
 
-- Cohn, P. M. 2003. [*Further Algebra and Applications*](https://www.worldcat.org/title/50143978). London: Springer. ISBN: 9781852336677                
-    See chapters 2, 4, 5, 7, 8.  An earlier edition of basically the same text as volumes 2, 3 of the series [*Algebra*](https://www.worldcat.org/title/8031629) by the same  author.  
+- Cohn, P. M. 2003. {{% resource_link "57b64879-4592-4a76-af32-ed3fe2133001" "*Further Algebra and Applications*" %}}. London: Springer. ISBN: 9781852336677                
+    See chapters 2, 4, 5, 7, 8.  An earlier edition of basically the same text as volumes 2, 3 of the series {{% resource_link "46e07c7e-5450-46ee-a67d-8d5888b85e23" "*Algebra*" %}} by the same  author.  
       
     The author of the recommended textbook is Professor Paul Moritz Cohn (1924 -2006) of University College, London. He was born in Hamburg, Germany to a Jewish family which was later persecuted by the Nazis and perished in Holocaust. Paul Cohn himself was saved by Kindertransport, an organised rescue effort for children of persecuted Jewish families that helped them emigrate to the United Kingdom.
-- Weibel, Charles A. 1994. [*An Introduction to Homological Algebra*](https://www.worldcat.org/title/27935084). Cambridge England: Cambridge University Press. ISBN: 9780521559874
+- Weibel, Charles A. 1994. {{% resource_link "c639e84a-bf7b-47e9-a1d2-333194e2c563" "*An Introduction to Homological Algebra*" %}}. Cambridge England: Cambridge University Press. ISBN: 9780521559874
 - {{% resource_link "890fcc55-0de6-4ef7-b1db-67a715580ddb" "Notes by Prof. Michel Artin" %}} 
 - {{% resource_link "890fcc55-0de6-4ef7-b1db-67a715580ddb" "Notes by Prof. Pavel Etingof" %}} 
 
