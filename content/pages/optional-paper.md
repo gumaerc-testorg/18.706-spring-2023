@@ -31,29 +31,29 @@ Please discuss your choice of material with the instructor before starting to wo
 ## References    
 
 1. M. Artin, *Noncommutative algebra*, notes available in the {{% resource_link "890fcc55-0de6-4ef7-b1db-67a715580ddb" "Study Materials section" %}}
-2. M. Artin, W. Schleter, "[Graded algebras of global dimension 3](https://www.sciencedirect.com/science/article/pii/000187088790034X)." 
-3. M. Artin, J. J. Zhang, "[Noncommutative projective schemes](https://www.sciencedirect.com/science/article/pii/S0001870884710875)."
-4. D. Benson, [*Representations and cohomology, I*](https://www.worldcat.org/title/715181042)
-5. A. Belov-Kanel, M. Kontsevich, "[The Jacobian conjecture is stably equivalent to the Dixmier conjecture](https://arxiv.org/abs/math/0512171); [Automorphisms of the Weyl algebra](https://arxiv.org/abs/math/0512169)." 
-6. Y. Berest, G. Felder, A. Ramadoss, "[Derived representation schemes and noncommutative geometry](https://arxiv.org/abs/1304.5314), [Expository lectures on representation theory](https://www.ams.org/books/conm/607/conm607-endmatter.pdf)*."*   
-7. A. Bondal, M. van den Bergh, "[Generators and representability of functors in commutative and noncommutative geometry](https://arxiv.org/abs/math/0204218)."  
-8. J. Dixmier, [*Algebres enveloppantes*](https://www.worldcat.org/title/34319304)  
-9. J. W. S. Cassels, A. Fröhlich, ”[Algebraic number theory](https://www.worldcat.org/title/34319304)."  
-10. M. Ershov, ”[Golod-Shafarevich groups: a survey](https://arxiv.org/abs/1206.0490).”   
-11. S. Gelfand, Y. Manin, ”[Methods of homological algebra](https://www.worldcat.org/title/50693335).”
-12. V. Ginzburg, "[Lectures on noncommutative geometry](https://arxiv.org/abs/math/0506603)."
-13. V. Ginzburg, M. Kapranov, "[Koszul duality for operads](https://arxiv.org/abs/0709.1228v1)."   
-14. J.-C. Jantzen, ”[Einhullende Algebren halbeinfacher Lie-Algebren](https://www.worldcat.org/title/10192803)." 
-15. M. Kapranov, "[Noncommutative geometry based on commutator expansions](https://arxiv.org/abs/math/9802041)." 
-16. M. Kontsevich, A. Rosenberg "[Noncommutative smooth spaces](https://arxiv.org/abs/math/9812158)." 
-17. R. Krause, H. Lenagan, [*Growth of algebras and Gelfand-Kirillov dimension*](https://www.ams.org/books/gsm/022/)   
-18. T. Y. Lam, [*Introduction to quadratic forms over fields*](https://www.worldcat.org/title/56809496)   
-19. J.-L. Loday, [*Cyclic homology*](https://link.springer.com/chapter/10.1007/978-3-662-21739-9_3)
-20. J.-L. Loday, B. Vallette, [*Algebraic operads*](https://www.worldcat.org/title/806458693)
-21. J. Lurie, lectures ”[Brauer Groups in Chromatic Homotopy Theory](https://www.youtube.com/watch?v=nl_Q_G4Iork),” lecture 1, available on YouTube.   
-22. S. MacLane, [*Categories for the working mathematician*](https://www.worldcat.org/title/267783) 
-23. A. Polishchuk, L. Positselski, [*Quadratic algebras*](https://djvu.online/file/T1DOlccPNeqX0)
-24. B. Poonen,  [*Rational Points on Varieties*.](https://www.worldcat.org/title/987437380)
-25. D. Quillen, "[Rational homotopy theory](https://link.springer.com/chapter/10.1007/978-1-4614-8468-4_17)."    
-26. D. Quillen, "[On the associated graded of a group ring](https://www.sciencedirect.com/science/article/pii/0021869368900690)." 
-27. C. Weibel,  [*An Introduction to Homological Algebra*](https://www.worldcat.org/title/27935084).
+2. M. Artin, W. Schleter, "{{% resource_link "9c2e8c05-a5a1-4d82-af4b-b9efe480c8fb" "Graded algebras of global dimension 3" %}}." 
+3. M. Artin, J. J. Zhang, "{{% resource_link "6030f421-d2ed-4d6b-876b-8d207b6ff41a" "Noncommutative projective schemes" %}}."
+4. D. Benson, {{% resource_link "e0a552cc-8ef5-4866-9404-8630035effac" "*Representations and cohomology, I*" %}}
+5. A. Belov-Kanel, M. Kontsevich, "{{% resource_link "db0d22ee-a58b-4898-85a5-c01876a82ae8" "The Jacobian conjecture is stably equivalent to the Dixmier conjecture" %}}; {{% resource_link "5dc9a406-3c4e-4439-bbd8-414d2348d818" "Automorphisms of the Weyl algebra" %}}." 
+6. Y. Berest, G. Felder, A. Ramadoss, "{{% resource_link "dc3b9391-3337-4c2c-8de5-1d40fa320879" "Derived representation schemes and noncommutative geometry" %}}, {{% resource_link "e0dfee0b-76bf-4c23-9ed3-3678fe75d767" "Expository lectures on representation theory" %}}*."*   
+7. A. Bondal, M. van den Bergh, "{{% resource_link "c375d21c-bfe3-4b34-8bd7-6ed458db795b" "Generators and representability of functors in commutative and noncommutative geometry" %}}."  
+8. J. Dixmier, {{% resource_link "e122fc65-e03a-4575-af38-aaec88a0a15e" "*Algebres enveloppantes*" %}}  
+9. J. W. S. Cassels, A. Fröhlich, ”{{% resource_link "e122fc65-e03a-4575-af38-aaec88a0a15e" "Algebraic number theory" %}}."  
+10. M. Ershov, ”{{% resource_link "03f055ee-c5a4-4784-8091-35a505fb806f" "Golod-Shafarevich groups: a survey" %}}.”   
+11. S. Gelfand, Y. Manin, ”{{% resource_link "6d0bf9d7-a00c-4aa6-8680-79cc925cfdc0" "Methods of homological algebra" %}}.”
+12. V. Ginzburg, "{{% resource_link "016a5dde-4486-418f-b251-d96133ee0798" "Lectures on noncommutative geometry" %}}."
+13. V. Ginzburg, M. Kapranov, "{{% resource_link "625f0af4-2e5b-44f4-8129-3bdeddfe7596" "Koszul duality for operads" %}}."   
+14. J.-C. Jantzen, ”{{% resource_link "8532a434-57b5-487a-a28e-17ded77e2e22" "Einhullende Algebren halbeinfacher Lie-Algebren" %}}." 
+15. M. Kapranov, "{{% resource_link "62ba56aa-2c6a-4dc6-909e-9f9486613ce7" "Noncommutative geometry based on commutator expansions" %}}." 
+16. M. Kontsevich, A. Rosenberg "{{% resource_link "9b695e9b-3db4-468f-8f79-de9d4b227ab3" "Noncommutative smooth spaces" %}}." 
+17. R. Krause, H. Lenagan, {{% resource_link "1dc8279c-01d8-44e7-9cbd-c6b1d140a8d4" "*Growth of algebras and Gelfand-Kirillov dimension*" %}}   
+18. T. Y. Lam, {{% resource_link "cde6b052-09cd-4843-b323-4a3073501c91" "*Introduction to quadratic forms over fields*" %}}   
+19. J.-L. Loday, {{% resource_link "4750815b-2c90-49ae-a4a6-49b521fdc882" "*Cyclic homology*" %}}
+20. J.-L. Loday, B. Vallette, {{% resource_link "3b1a0aee-37fd-40d4-b142-e64db27ea941" "*Algebraic operads*" %}}
+21. J. Lurie, lectures ”{{% resource_link "73536ebe-7177-415f-be51-46f8820e52df" "Brauer Groups in Chromatic Homotopy Theory" %}},” lecture 1, available on YouTube.   
+22. S. MacLane, {{% resource_link "7894ba37-6ff0-4c82-afef-45e07bfb2100" "*Categories for the working mathematician*" %}} 
+23. A. Polishchuk, L. Positselski, {{% resource_link "cafd06f2-c9a8-48d8-9ee1-0ec86034d7b8" "*Quadratic algebras*" %}}
+24. B. Poonen,  {{% resource_link "3a4212d9-888a-4e72-9304-87bb467cfa9a" "*Rational Points on Varieties*." %}}
+25. D. Quillen, "{{% resource_link "eccd0b20-c91e-4e17-bf72-213acc5d4952" "Rational homotopy theory" %}}."    
+26. D. Quillen, "{{% resource_link "7736b6bb-a8ea-4369-8a98-b99f1774ac87" "On the associated graded of a group ring" %}}." 
+27. C. Weibel,  {{% resource_link "c639e84a-bf7b-47e9-a1d2-333194e2c563" "*An Introduction to Homological Algebra*" %}}.
